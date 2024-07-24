@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olosegin.github.io/sitemap.html.gz
+Sitemap: https://olosegin.github.io/app/sitemap.html.gz
+Sitemap: https://olosegin.github.io/assets/sitemap.html.gz
+Sitemap: https://olosegin.github.io/css/sitemap.html.gz
+Sitemap: https://olosegin.github.io/includes/sitemap.html.gz
+Sitemap: https://olosegin.github.io/item/sitemap.html.gz
+Sitemap: https://olosegin.github.io/src/sitemap.html.gz
